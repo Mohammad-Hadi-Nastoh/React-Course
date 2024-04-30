@@ -3,7 +3,7 @@ import { Button } from "./component/button/Button"
 function App() {
   return (
     <div>
-      <Button/>
+      <Button label={"Click me"}></Button>
     </div>
   )
 }
